@@ -1,0 +1,331 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    text-align: center;
+    font-family: sans-serif;
+}
+.yigirma{
+    width: 1320px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    margin-top: 30px;
+    padding: 10px 0;
+    background-color: rgba(128, 128, 128, 0.497);
+
+
+}
+.yigirma1 li select{
+    border: none;
+    background-color: transparent;
+    outline: none;
+}
+.yigirma1 ul{
+    display: flex;
+    gap: 30px;
+}
+.container{
+    width: 1250px;
+    margin: auto;
+}
+.novbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 70px;
+}
+.ikki ul{
+    display: flex;
+    gap: 50px;
+}
+.uch ul{
+    display: flex;
+    gap: 20px;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+.img{
+    width: 1327px;
+    margin: auto;
+    height: 746px;
+    background-size: cover;
+}
+.words{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+.words1{
+    margin-right: 100px;
+    text-align: start;
+}
+.words2{
+    text-align: start;
+}
+.img2{
+    display: flex;
+}
+.img1{
+    margin-top: 100px;
+    text-align: start;
+}
+.img1 img{
+    width: 588px;
+    height: 412px;
+}
+.tort{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+.besh{
+    display: flex;
+    margin-top: 30px;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+.the {
+    margin-top: 100px;
+}
+.iconca{
+    margin-top: 60px;
+    
+}
+.iconca1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    text-align: center;
+}.iconca2{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    gap: 40px;
+}.iconca3{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    gap: 40px;
+    text-align: center;
+}
+.bir1 img{
+    margin-top: 150px;
+    background-size: cover;
+    width: 1345px;
+}
+.ikki2{
+    width: 1077px;
+    margin: auto ;
+    text-align: start;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+.uch1{
+    width: 977px;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    margin-left: 300px;
+    margin-top: 20px;
+}
+.ikki3{
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+}
+.ikki3 p{
+    text-align: start;
+}
+/* .bir4{
+    background-image: url(./rasm1.png);
+    width: 1686px;
+    height: 100vh; */
+/* } */
+/* .bac{ */
+    /* background-image: url(./rasm1.png); */
+    /* width: 1024px; */
+    /* height: 700px; */
+    /* background-repeat: no-repeat; */
+    /* background-size:cover; */
+    /* background-position: center; */
+/* } */
+.rasm{
+  
+    margin-top: 100px;
+}
+.yetti{
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.class{
+    font-size: 40px;
+    text-align: start;
+    display: flex;
+    align-items: center;
+    margin-top: 200px;
+    justify-content: center;
+
+}
+.div {
+    margin-top: 30px;
+    font-size: 35px;
+    align-items: start;
+}
+.boxes{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+.boxes .sakkiz{
+    margin-left: 100px;
+    text-align: start;
+}
+.boxes1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+.boxes1 .sakkiz1{
+    margin-right: 100px;
+    text-align: start;
+}
+.suv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+
+}
+.suv .yetti3{
+    margin-left: 100px;
+    text-align: start;
+}
+.men{
+    margin-top: 150px;
+}
+.men1{
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 1200px;
+    height: 460 px;
+    background-color: rgba(128, 128, 128, 0.319);
+    margin: auto;
+    margin-top: 200px;
+}
+.sen4{
+    display: flex;
+    align-items: center;
+    justify-content: center;   
+    gap: 100px; 
+    margin-top: 60px;
+}
+.sen{
+    margin-bottom: 50px;
+}
+.sen h1{
+    margin-top: 40px;
+}
+.button{
+    padding: 20px 30px;
+    background-color: green;
+    border: none;
+    margin-top: 30px;
+}
+.p{
+    color: gray;
+    margin-top: 50px;
+}
+.qora{  
+    width: 80%;
+    margin: auto;
+    width: 1200px;
+    height: 570px;
+    margin-top: 100px;
+    color: white;
+    background-color: black;
+
+}
+.qora1{
+    display: flex;
+    justify-content: center;
+    text-align: start;
+    gap: 40px;
+    padding-top: 50px;
+}
+
+.instagram ul{
+    margin-top: 20px;
+    display: flex;
+    gap: 10px;
+}
+.dilyorbek button{
+    padding: 30px 150px;
+    border: 1px solid white;
+    background-color: black;
+}
+.p1{
+    margin-top: 10px;
+    text-align: end;
+}
+/* .sen1 img{
+    width: 60px;
+    height: 100px;
+}
+.sen2 img{
+    width: 60px;
+    height: 100px;
+}
+.sen3 img{
+    width: 60px;
+    height: 100px; */
+/* }    */
+.qora2{
+    display: flex;
+    gap: 43px;
+    margin-top: 70px;
+    text-align: start;
+}
+.g{
+    color: black;
+}
+.tortburchak{
+    width: 20px;
+    height: 20px;
+    border: 1px solid white;
+}
+.j{
+    color: black;
+}
+.solijonov{
+    display: flex;
+    gap: 20px;
+}
+.p2{
+    margin-top: 200px;
+}
